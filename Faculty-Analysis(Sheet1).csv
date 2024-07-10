@@ -1,4 +1,4 @@
-Link to Java file from drive,Clone type,Settings,Original method name,Code2Vec name ,Jaccard similarity (between original and code2vec),Match,Link
+Class,Clone type,Settings,Original method name,Code2Vec name ,Jaccard similarity (between original and code2vec),Match,Link
 class: DrawApplet,Type 1(a),Al model,createAttributeChoices,add_to2,0.00%,FALSE,https://tilores.io/jaccard-similarity-coefficient-algorithm-online-tool?t1=createAttributeChoices&t2=add_to2
 ,,,,addTo2,0.00%,FALSE,https://tilores.io/jaccard-similarity-coefficient-algorithm-online-tool?t1=createAttributeChoices&t2=addTo2
 ,,,,add_to,0.00%,FALSE,https://tilores.io/jaccard-similarity-coefficient-algorithm-online-tool?t1=createAttributeChoices&t2=add_to
